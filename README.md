@@ -4,4 +4,4 @@ I like making cool stuff with Python, HTML, and even physical stuff like Arduino
 ____
 <br />
 
-[![My GitHub stats!](https://github-readme-stats.vercel.app/api?username=YourFurryDeveloper)](https://github.com/YourFurryDeveloper/github-readme-stats)
+[![My GitHub stats!](https://github-readme-stats.vercel.app/api?username=YourFurryDeveloper&theme=radical)](https://github.com/YourFurryDeveloper/github-readme-stats)
