@@ -3,7 +3,7 @@
 I like making cool stuff with Python, HTML, and even physical stuff like Arduinos and RPIs!
 
 ![tag](https://img.shields.io/badge/Furry%20:3-8A2BE2) [![tag](https://img.shields.io/youtube/channel/subscribers/UCKzLDB3cvUhWIpFibsmGV6g?style=social
-)](https://youtube.com/UCKzLDB3cvUhWIpFibsmGV6g)
+)](https://youtube.com/channel/UCKzLDB3cvUhWIpFibsmGV6g)
 
 <br />
 
