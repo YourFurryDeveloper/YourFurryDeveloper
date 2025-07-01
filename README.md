@@ -1,12 +1,9 @@
 # Hello! :3 👋
 
-I like making cool stuff with Python, HTML, and even physical stuff like Arduinos and RPIs!
-
 ![tag](https://img.shields.io/badge/Furry%20:3-8A2BE2) [![tag](https://img.shields.io/youtube/channel/subscribers/UCKzLDB3cvUhWIpFibsmGV6g?style=social
 )](https://youtube.com/channel/UCKzLDB3cvUhWIpFibsmGV6g) ![tag](https://komarev.com/ghpvc/?username=YourFurryDeveloper)
 
-<br />
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=39F70C&width=435&lines=Hewo!+%3A3;I'm+a+furry+and+programmer!;I+like+making+cool+web+and+Python%2Fother+projects!;I+even+like+making+physical+things+with+Arduinos+and+RPIs!;Imma+probably+be+an+IT+fur+or+something+lol" alt="Typing SVG" width="85%" /></a>
 ____
 
 ## Current languages/Tech stack:
