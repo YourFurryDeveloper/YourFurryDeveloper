@@ -4,6 +4,8 @@
 )](https://youtube.com/channel/UCKzLDB3cvUhWIpFibsmGV6g) ![tag](https://komarev.com/ghpvc/?username=YourFurryDeveloper)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=39F70C&width=435&lines=Hewo!+%3A3;I'm+a+furry+and+programmer!;I+like+making+cool+web+and+Python%2Fother+projects!;I+even+like+making+physical+things+with+Arduinos+and+RPIs!;Imma+probably+be+an+IT+fur+or+something+lol" alt="Typing SVG" width="85%" /></a>
+
+<a href="https://www.buymeacoffee.com/mctechdev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=mctechdev&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
 ____
 
 ## Current languages/Tech stack:
