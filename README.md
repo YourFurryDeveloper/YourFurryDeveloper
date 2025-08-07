@@ -4,6 +4,8 @@
 )](https://youtube.com/channel/UCKzLDB3cvUhWIpFibsmGV6g) ![tag](https://komarev.com/ghpvc/?username=YourFurryDeveloper)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=39F70C&width=435&lines=Hewo!+%3A3;I'm+a+furry+and+programmer!;I+like+making+cool+web+and+Python%2Fother+projects!;I+even+like+making+physical+things+with+Arduinos+and+RPIs!;Imma+probably+be+an+IT+fur+or+something+lol" alt="Typing SVG" width="85%" /></a>
+
+<a href="https://buymeacoffee.com/mctechdev"><img src="https://mindfullywed.com/wp-content/uploads/2022/08/bmc-button.png" width="20%"/></a>
 ____
 
 ## Current languages/Tech stack:
